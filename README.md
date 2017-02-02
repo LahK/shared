@@ -18,6 +18,7 @@ A repository to share documents.
     > Redux 规定， 一个 State 对应一个 View。只要 State 相同，View 就相同。你知道 State，就知道 View 是什么样，反之亦然。
 - [Redux 入门教程（二）：中间件与异步操作](http://www.ruanyifeng.com/blog/2016/09/redux_tutorial_part_two_async_operations.html)
 - [Redux 入门教程（三）：React-Redux 的用法](http://www.ruanyifeng.com/blog/2016/09/redux_tutorial_part_three_react-redux.html)
+- [Flux Standard Action](https://github.com/acdlite/flux-standard-action)
 
 # documents
 - [Javascript代码及注释规范](https://github.com/LahK/shared/blob/master/Javascript%E4%BB%A3%E7%A0%81%E5%8F%8A%E6%B3%A8%E9%87%8A%E8%A7%84%E8%8C%83.md)
